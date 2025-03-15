@@ -3,6 +3,7 @@
   "version": "1.0.0",
   "source": "src/index.html",
   "license": "MIT",
+  "type": "module",
   "scripts": {
     "start": "parcel src/index.html",
     "build": "parcel build src/index.html",

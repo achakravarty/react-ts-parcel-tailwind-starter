@@ -10,7 +10,7 @@ const Welcome: FunctionComponent = () => {
           <div className="h-1 w-20 bg-indigo-500 mx-auto mb-6"></div>
           <p className="text-gray-600 mb-8">
             This is a starter template built with React, TypeScript, Parcel, and Tailwind CSS.
-            It's designed to help you get started with your project quickly and efficiently.
+            It&apos;s designed to help you get started with your project quickly and efficiently.
           </p>
           
           <div className="grid grid-cols-1 md:grid-cols-3 gap-4 mb-8">
