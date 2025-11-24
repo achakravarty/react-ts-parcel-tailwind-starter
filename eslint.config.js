@@ -24,15 +24,6 @@ export default [
   prettier,
   {
     files: ['**/*.ts', '**/*.tsx'],
-    languageOptions: {
-      parser: tseslint.parser,
-      parserOptions: {
-        project: './tsconfig.json'
-      }
-    },
-    plugins: {
-      '@typescript-eslint': tseslint.plugin
-    },
     rules: {
       '@typescript-eslint/non-nullable-type-assertion-style': 'off',
       '@typescript-eslint/no-magic-numbers': 'off',
