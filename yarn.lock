@@ -3581,10 +3581,10 @@ eslint-compat-utils@^0.5.1:
   dependencies:
     semver "^7.5.4"
 
-eslint-config-love@^134.0.0:
-  version "134.0.0"
-  resolved "https://registry.npmjs.org/eslint-config-love/-/eslint-config-love-134.0.0.tgz"
-  integrity sha512-kDMgnb3jtFqRL6g1WjZrWpkv1p4sKpbvnzZ3hw4VcbFtwtAx5iQToi89Wb0YvajdncJCxiodcjupmfDk1pc6Ww==
+eslint-config-love@^136.0.0:
+  version "136.0.0"
+  resolved "https://registry.yarnpkg.com/eslint-config-love/-/eslint-config-love-136.0.0.tgz#a00fc1bea6779f1c7b1ca96948aa09a65dca2157"
+  integrity sha512-U7CSZgDNqaaG1An+vWDf4pk0Uye1hXwsndoLBb9npqjVcXGhzILI3dOkXIvlt90tufFWYvlSvB0fD6Anlirkqw==
   dependencies:
     "@typescript-eslint/utils" "^8.41.0"
     eslint-plugin-eslint-comments "^3.2.0"
